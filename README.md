@@ -2,11 +2,11 @@
 
 ![$lxy's GitHub views](https://api.ghprofile.me/view?username=Sytroxitz&color=f7347a)
 
-![$lxy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sytroxitz&show_icons=true&hide=prs,contribs&theme=radical)
+![$lxy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sytroxitz&show_icons=true&hide=prs,contribs&theme=midnight-purple)
 
-[![$lxy's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Slxy_Txz)](https://github.com/anuraghazra/github-readme-stats)
+[![$lxy's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Slxy_Txz&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
-[![$lxy's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sytroxitz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![$lxy's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sytroxitz&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
