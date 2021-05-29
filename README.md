@@ -1,6 +1,7 @@
 👋 Hi there
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sytroxitz&show_icons=true&theme=radical)
+![](https://api.ghprofile.me/view?username=Sytroxitz&color=red)
+![$lxy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sytroxitz&show_icons=true&theme=radical)
 
 <!---
 - 👋 Hi, I’m @Sytroxitz
