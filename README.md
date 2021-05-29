@@ -1,8 +1,12 @@
 👋 Hi there
 
-![](https://api.ghprofile.me/view?username=Sytroxitz&color=f7347a)
+![$lxy's GitHub views](https://api.ghprofile.me/view?username=Sytroxitz&color=f7347a)
 
 ![$lxy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sytroxitz&show_icons=true&theme=radical)
+
+[![$lxy's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Slxy_Txz)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!---
 - 👋 Hi, I’m @Sytroxitz
