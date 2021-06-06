@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> Hey, I'm $lxy Txz
 
-A hobby (full stack) developer focusing on Python, C++, C#.
+A hobby (full stack) developer focusing on Python, HTML, C++, C#.
 
 ### Some info about me
 
