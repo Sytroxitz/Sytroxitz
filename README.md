@@ -6,7 +6,7 @@ A hobby (full stack) developer focusing on Python, HTML, C++, C#.
 
 - 🔭 I’m currently working on **[Evernity](https://github.com/Evernity) & [L I F E](https://dsc.gg/life-bot)😅**
 - 🌱 I’m currently learning **Python, HTML, CSS, C++, C#**
-- 💞️ Favorite Languages: **Python, Java, HTML**
+- 💞️ Favorite Languages: **Python, Java, C++**
 - 📫 How to reach me: [Discord](https://discord.com/users/261103679732580352)
 
 ---
