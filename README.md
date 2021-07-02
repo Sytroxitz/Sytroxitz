@@ -77,9 +77,9 @@ A hobby (full stack) developer focusing on Python, HTML, C++, C#.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sytroxitz&layout=compact&theme=midnight-purple)
 
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=slxy&layout=compact&theme=midnight-purple)
+![Wakatime Week stats](https://github-readme-stats.vercel.app/api/wakatime?username=slxy&layout=compact&theme=midnight-purple)
 
-<!-- Random Stuff -->
+<!-- Credit Stuff -->
 
 <!-- https://github.com/TrustedMercury/ghprofile.me -->
 <!-- https://github.com/anuraghazra/github-readme-stats#wakatime-week-stats -->
