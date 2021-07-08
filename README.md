@@ -1,3 +1,4 @@
+
 # <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> Hey, I'm $lxy Txz
 
 A hobby (full stack) developer focusing on Python, HTML, C++, C#.
@@ -13,7 +14,7 @@ A hobby (full stack) developer focusing on Python, HTML, C++, C#.
 
 <!-- Languages -->
 
-<details open>
+<details close>
 <summary>⚡ <b>Languages</b></summary>
 <p>
 
@@ -33,7 +34,7 @@ A hobby (full stack) developer focusing on Python, HTML, C++, C#.
 
 <!-- Software -->
 
-<details open>
+<details close>
 <summary>🛠 <b>Software</b></summary>
 <p>
 
@@ -55,7 +56,7 @@ A hobby (full stack) developer focusing on Python, HTML, C++, C#.
 
 <!-- Socials -->
 
-<details open>
+<details close>
 <summary>📬 <b>Socials</b></summary>
 <p>
 
@@ -67,27 +68,28 @@ A hobby (full stack) developer focusing on Python, HTML, C++, C#.
 </p>
 </details>
 
-<!-- GitHub/Coding Stats -->
+<div align="center">
+  <!-- GitHub/Coding Stats -->
 
-## GitHub Stats
+  ## GitHub Stats
 
-![GitHub views](https://api.ghprofile.me/view?username=Sytroxitz&color=7f3ace)
+  ![GitHub views](https://api.ghprofile.me/view?username=Sytroxitz&color=7f3ace)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sytroxitz&show_icons=true&hide=prs,contribs&theme=midnight-purple)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sytroxitz&show_icons=true&hide=prs,contribs&theme=midnight-purple)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sytroxitz&layout=compact&theme=midnight-purple)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sytroxitz&layout=compact&theme=midnight-purple)
 
-![Wakatime Week stats](https://github-readme-stats.vercel.app/api/wakatime?username=slxy&layout=compact&theme=midnight-purple)
+  ![Wakatime Week stats](https://github-readme-stats.vercel.app/api/wakatime?username=slxy&layout=compact&theme=midnight-purple)
 
-<!-- Credit Stuff -->
+  <!-- Credit Stuff -->
 
-<!-- https://github.com/TrustedMercury/ghprofile.me -->
-<!-- https://github.com/anuraghazra/github-readme-stats#wakatime-week-stats -->
+  <!-- https://github.com/TrustedMercury/ghprofile.me -->
+  <!-- https://github.com/anuraghazra/github-readme-stats#wakatime-week-stats -->
 
-<!---
-- 👋 Hi, I’m @Sytroxitz
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
---->
+  <!---
+  - 👋 Hi, I’m @Sytroxitz
+  - 👀 I’m interested in ...
+  - 🌱 I’m currently learning ...
+  - 💞️ I’m looking to collaborate on ...
+  - 📫 How to reach me ...
+  --->
