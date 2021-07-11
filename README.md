@@ -20,8 +20,8 @@ A hobby (full stack) developer focusing on Python, HTML, C++, C#.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-E34A86?logo=java&logoColor=ffffff&style=for-the-badge)
-![Ruby](https://img.shields.io/badge/Ruby-942621?style=for-the-badge&logo=ruby)
-![JavaScript](https://img.shields.io/badge/JavaScript-D8C31A?style=for-the-badge&logo=javascript&logoColor=ffffff)
+![Ruby](https://img.shields.io/badge/Ruby-AD1A1E?style=for-the-badge&logo=ruby)
+![JavaScript](https://img.shields.io/badge/JavaScript-D8C31A?style=for-the-badge&logo=javascript&logoColor=black)
 ![MySQL/SQL](https://img.shields.io/badge/MySQL/SQL-016a7f?style=for-the-badge&logo=mysql&logoColor=ffffff)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=ffffff&style=for-the-badge)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=ffffff&style=for-the-badge)
