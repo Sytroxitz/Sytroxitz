@@ -57,11 +57,12 @@ A hobby (full stack) developer focusing on Python, HTML, C++, C#.
 
 <!-- Socials -->
 
-<details close>
+<details open>
 <summary>📬 <b>Socials</b></summary>
 <p>
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=ffffff&style=for-the-badge)](https://discord.com/users/261103679732580352)
+[![TeamSpeak](https://img.shields.io/badge/TeamSpeak-3BB6E3?logo=teamspeak&logoColor=ffffff&style=for-the-badge)](https://joinarena.net)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=ffffff&style=for-the-badge)](https://twitter.com/Slxy_Txz)
 [![YouTube](https://img.shields.io/badge/YouTube-E62117?logo=youtube&logoColor=ffffff&style=for-the-badge)](https://www.youtube.com/channel/UCAs8EWPBvR00TZ9wtOoYL6w)
 [![Github](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=ffffff&style=for-the-badge)](https://github.com/Sytroxitz)
