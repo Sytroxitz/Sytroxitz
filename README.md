@@ -1,13 +1,13 @@
 
 # <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> Hey, I'm $lxy Txz
 
-A hobby (full stack) developer focusing on Python, HTML, C++, C#.
+A hobby developer focusing on Python, HTML, C#.
 
 ### Some info about me
 
 - 🔭 I’m currently working on **[Evernity](https://github.com/Evernity) & [L I F E](https://dsc.gg/life-bot)😅**
-- 🌱 I’m currently learning **Python, HTML, C++, Ruby**
-- 💞️ Favorite Languages: **Python, Java, C++**
+- 🌱 I’m currently learning **Python, HTML, Ruby**
+- 💞️ Favorite Languages: **Python, Java**
 - 📫 How to reach me: [Discord](https://discord.com/users/261103679732580352)
 
 ---
