@@ -25,9 +25,8 @@ A hobby developer focusing on Python, C++, C#.
   ![MySQL/SQL](https://img.shields.io/badge/MySQL/SQL-016a7f?style=for-the-badge&logo=mysql&logoColor=ffffff)
   ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=ffffff&style=for-the-badge)
   ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=ffffff&style=for-the-badge)
-  ![C++](https://img.shields.io/badge/C++-00599C?logo=c&logoColor=ffffff&style=for-the-badge)
+  ![C/C++](https://img.shields.io/badge/C/C++-00599C?logo=c&logoColor=ffffff&style=for-the-badge)
   ![C#](https://img.shields.io/badge/CSharp-8A2BE2?logo=c&logoColor=ffffff&style=for-the-badge)
-  ![C](https://img.shields.io/badge/C-66595C?logo=c&logoColor=ffffff&style=for-the-badge)
   ![JSON](https://img.shields.io/badge/JSON-181717?style=for-the-badge&logo=json&logoColor=ffffff)
   ![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=ffffff&style=for-the-badge)
 
