@@ -1,12 +1,12 @@
 
 # <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> Hey, I'm $lxy Txz
 
-A hobby developer focusing on Python, C++, C#.
+A prospective software engineer focusing on C++, C# & Web-Development.
 
 ### Some info about me
 
 - 🔭 I’m currently working on **[Evernity](https://github.com/Evernity), [JoinArena](https://github.com/JoinArena) & [HYDRA](https://github.com/Sytroxitz/hydra-mod)🤐**
-- 🌱 I’m currently learning **Python, C++, Ruby**
+- 🌱 I’m currently learning **C++, C# & JavaScript**
 - 💞️ Favorite Languages: **Python, Java**
 - 📫 How to reach me: [Discord](https://discord.com/users/261103679732580352)
 
