@@ -5,7 +5,7 @@ A prospective software engineer focusing on C++, C# & Web-Development.
 
 ### Some info about me
 
-- 🔭 I’m currently working on **[Evernity](https://github.com/Evernity), [JoinArena](https://github.com/JoinArena) & [HYDRA](https://github.com/Sytroxitz/hydra-mod)🤐**
+- 🔭 I’m currently working on **[Evernity](https://github.com/Evernity) & [JoinArena](https://github.com/JoinArena)**
 - 🌱 I’m currently learning **C++, C# & JavaScript**
 - 💞️ Favorite Languages: **Python, Java**
 - 📫 How to reach me: [Discord](https://discord.com/users/261103679732580352)
