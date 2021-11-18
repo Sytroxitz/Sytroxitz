@@ -23,6 +23,7 @@ A prospective software engineer focusing on C++, C# & Web-Development.
   ![Ruby](https://img.shields.io/badge/Ruby-AD1A1E?style=for-the-badge&logo=ruby)
   ![JavaScript](https://img.shields.io/badge/JavaScript-D8C31A?style=for-the-badge&logo=javascript&logoColor=black)
   ![MySQL/SQL](https://img.shields.io/badge/MySQL/SQL-016a7f?style=for-the-badge&logo=mysql&logoColor=ffffff)
+  ![PHP](https://img.shields.io/badge/PHP-787cb5?style=for-the-badge&logo=php&logoColor=ffffff)
   ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=ffffff&style=for-the-badge)
   ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=ffffff&style=for-the-badge)
   ![C/C++](https://img.shields.io/badge/C/C++-00599C?logo=c&logoColor=ffffff&style=for-the-badge)
