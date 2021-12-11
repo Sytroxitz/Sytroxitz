@@ -80,6 +80,7 @@ A prospective full stack software engineer focusing on C++, C# & Web-Development
   ### GitHub & Coding Stats
 
   ![GitHub views](https://api.ghprofile.me/view?username=Sytroxitz&color=7f3ace)
+  [![wakatime](https://wakatime.com/badge/user/d62706c6-dbaf-41b0-b0f4-8ca16e7d539e.svg)](https://wakatime.com/@d62706c6-dbaf-41b0-b0f4-8ca16e7d539e)
   <div align="center">
     <table>
       <tr>
