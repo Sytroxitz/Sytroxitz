@@ -5,7 +5,7 @@ A prospective full stack software engineer focusing on C++, C# & Web-Development
 
 ### Some info about me
 
-- 🔭 I’m currently working on **[Evernity](https://github.com/Evernity) & [JoinArena](https://github.com/JoinArena)**
+- 🔭 I’m currently working on **[JoinArena](https://github.com/JoinArena) & [CYBER](https://github.com/Sytroxitz/CyberLauncher)**
 - 🌱 I’m currently learning **C++, C# & JavaScript**
 - 💞️ Favorite Languages: **Python, Java**
 - 📫 How to reach me: [Discord](https://discord.com/users/261103679732580352)
@@ -21,6 +21,7 @@ A prospective full stack software engineer focusing on C++, C# & Web-Development
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-E34A86?logo=java&logoColor=ffffff&style=for-the-badge)
   ![Ruby](https://img.shields.io/badge/Ruby-AD1A1E?style=for-the-badge&logo=ruby)
+  ![Lua](https://img.shields.io/badge/Lua-0b0080?style=for-the-badge&logo=lua)
   ![JavaScript](https://img.shields.io/badge/JavaScript-D8C31A?style=for-the-badge&logo=javascript&logoColor=black)
   ![MySQL/SQL](https://img.shields.io/badge/MySQL/SQL-016a7f?style=for-the-badge&logo=mysql&logoColor=ffffff)
   ![PHP](https://img.shields.io/badge/PHP-787cb5?style=for-the-badge&logo=php&logoColor=ffffff)
