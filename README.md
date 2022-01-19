@@ -10,6 +10,8 @@ A prospective full stack software engineer focusing on C++, C# & Web-Development
 - 💞️ Favorite Languages: **Python, Java**
 - 📫 How to reach me: [Discord](https://discord.com/users/261103679732580352)
 
+[![$𝖑𝐱𝐲 𝐓𝐱𝐳](https://discord.c99.nl/widget/theme-4/261103679732580352.png)](https://discord.com/users/261103679732580352)
+
 ---
 
 <!-- Languages -->
