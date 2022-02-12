@@ -87,6 +87,7 @@ A prospective full stack software engineer focusing on C++, C# & Web-Development
 
   ![GitHub views](https://api.ghprofile.me/view?username=Sytroxitz&color=7f3ace)
   [![wakatime](https://wakatime.com/badge/user/d62706c6-dbaf-41b0-b0f4-8ca16e7d539e.svg)](https://wakatime.com/@d62706c6-dbaf-41b0-b0f4-8ca16e7d539e)
+  ![Code Time](https://img.shields.io/endpoint?style=flat&url=https://codetime-api.datreks.com/badge/3002?logoColor=white%26project=%26recentMS=0%26showProject=false)
   <div align="center">
     <table>
       <tr>
