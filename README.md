@@ -92,17 +92,17 @@ A prospective full stack software engineer focusing on C++, C# & Web-Development
     <table>
       <tr>
         <td align="center" style="padding=0;width=50%;">
-          <img src="https://github-readme-stats.vercel.app/api?username=Sytroxitz&show_icons=true&hide=prs,contribs&theme=midnight-purple&hide_border=true" />
+          <a target="_blank" href="https://github-readme-stats.vercel.app/api?username=Sytroxitz&show_icons=true&hide=prs,contribs&theme=midnight-purple&hide_border=true"><img src="https://github-readme-stats.vercel.app/api?username=Sytroxitz&show_icons=true&hide=prs,contribs&theme=midnight-purple&hide_border=true" /></a>
+          <a target="_blank" href="https://github-readme-stats.vercel.app/api/top-langs/?username=Sytroxitz&layout=compact&theme=midnight-purple&hide_border=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sytroxitz&layout=compact&theme=midnight-purple&hide_border=true" /></a>
         </td>
         <td align="center" style="padding=0;width=50%;">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sytroxitz&layout=compact&theme=midnight-purple&hide_border=true" />
+          <a target="_blank" href="https://github-readme-stats.vercel.app/api/wakatime?username=slxy&layout=compact&theme=midnight-purple&hide_border=true"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=slxy&layout=compact&theme=midnight-purple&hide_border=true" /></a>
         </td>
       </table>
       <table>
         <td align="center" style="padding=0;width=50%;">
-          <img src="https://github-readme-stats.vercel.app/api/wakatime?username=slxy&layout=compact&theme=midnight-purple&hide_border=true" />
+          <a target="_blank" href="https://activity-graph.herokuapp.com/graph?username=Sytroxitz&bg_color=0D1117&color=7E3ACE&line=7E3ACE&point=FFFFFF&hide_border=true"><img src="https://activity-graph.herokuapp.com/graph?username=Sytroxitz&bg_color=0D1117&color=7E3ACE&line=7E3ACE&point=FFFFFF&hide_border=true" /></a>
         </td>
-      </table>
       </tr>
   </div>
   
