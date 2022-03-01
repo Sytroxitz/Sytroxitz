@@ -6,7 +6,7 @@ A prospective full stack software engineer focusing on C++, C# & Web-Development
 ### Some info about me
 
 - 🔭 I’m currently working on **[JoinArena](https://github.com/JoinArena) & [CYBER](https://github.com/Sytroxitz/CyberLauncher)**
-- 🌱 I’m currently learning **C++, C# & JavaScript**
+- 🌱 I’m currently learning **C++, C#, JavaScript & PHP**
 - 💞️ Favorite Languages: **Python, Java**
 - 📫 How to reach me: [Discord](https://discord.com/users/261103679732580352)
 
