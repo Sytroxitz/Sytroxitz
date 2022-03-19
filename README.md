@@ -5,14 +5,15 @@ A prospective full stack software engineer focusing on C++, C# & Web-Development
 
 ### Some info about me
 
-- 🔭 I’m currently working on **[JoinArena](https://github.com/JoinArena) & [CYBER](https://github.com/Sytroxitz/CyberLauncher)**
+- 🔭 I’m currently working on **[JoinArena](https://github.com/JoinArena) & [TXZ](https://github.com/Sytroxitz/txz)**
 - 🌱 I’m currently learning **C++, C#, JavaScript & PHP**
 - 💞️ Favorite Languages: **Python, Java, C# & PHP**
 - 📫 How to reach me: [Discord](https://discord.com/users/261103679732580352)
 
 [![$𝖑𝐱𝐲 𝐓𝐱𝐳](https://discord.c99.nl/widget/theme-4/261103679732580352.png)](https://discord.com/users/261103679732580352)
 [![𝐓𝐱𝐳](https://discord.c99.nl/widget/theme-4/397867886032584706.png)](https://discord.com/users/397867886032584706)
-  
+[![𝗠𝗜𝗥𝗔𝗜](https://discord.c99.nl/widget/theme-4/360881524410810380.png)](https://discord.com/users/360881524410810380)
+
 ---
 
 <!-- Languages -->
