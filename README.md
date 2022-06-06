@@ -1,5 +1,5 @@
 
-# <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> Hey, I'm $lxy Txz
+# <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px" height="30px"> Hey, I'm $lxy Txz
 
 A prospective full stack software engineer focusing on C++, C# & Web-Development.
 
