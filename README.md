@@ -5,8 +5,8 @@ A prospective full stack software engineer focusing on C++, C# & Web-Development
 
 ### Some info about me
 
-- 🔭 I’m currently working on **[JoinArena](https://github.com/JoinArena) & [TXZ](https://github.com/Sytroxitz/txz)**
-- 🌱 I’m currently learning **C++, C#, JavaScript & PHP**
+- 🔭 I’m currently working on **[hydash](https://github.com/Sytroxitz/hydash)**
+- 🌱 I’m currently learning **C++, C#**
 - 💞️ Favorite Languages: **Python, Java, C# & PHP**
 - 📫 How to reach me: [Discord](https://discord.com/users/261103679732580352)
 
